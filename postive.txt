@@ -9,6 +9,6 @@ if(a<0)
 {
 cout<<"num is negative";
 }
-else { cout<<"num is negative";}
+else { cout<<"num is positive";}
 getch();
 }
